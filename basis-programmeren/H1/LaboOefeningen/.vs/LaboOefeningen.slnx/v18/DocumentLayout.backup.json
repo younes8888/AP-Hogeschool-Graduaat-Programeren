@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C625C0EB-95B3-4683-8E26-C3C3490E324A}|LaboOefeningen\\LaboOefeningen.csproj|d:\\programmeren\\basis_programmeren\\h1\\labooefeningen\\labooefeningen\\eenprogrammaschrijvenincsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C625C0EB-95B3-4683-8E26-C3C3490E324A}|LaboOefeningen\\LaboOefeningen.csproj|solutionrelative:labooefeningen\\eenprogrammaschrijvenincsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C625C0EB-95B3-4683-8E26-C3C3490E324A}|LaboOefeningen\\LaboOefeningen.csproj|d:\\programmeren\\basis_programmeren\\h1\\labooefeningen\\labooefeningen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C625C0EB-95B3-4683-8E26-C3C3490E324A}|LaboOefeningen\\LaboOefeningen.csproj|solutionrelative:labooefeningen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\Program.cs",
+              "RelativeDocumentMoniker": "LaboOefeningen\\Program.cs",
+              "ToolTip": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\Program.cs",
+              "RelativeToolTip": "LaboOefeningen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:36:51.029Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EenProgrammaSchrijvenInCSharp.cs",
+              "DocumentMoniker": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\EenProgrammaSchrijvenInCSharp.cs",
+              "RelativeDocumentMoniker": "LaboOefeningen\\EenProgrammaSchrijvenInCSharp.cs",
+              "ToolTip": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\EenProgrammaSchrijvenInCSharp.cs",
+              "RelativeToolTip": "LaboOefeningen\\EenProgrammaSchrijvenInCSharp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:53:31.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
