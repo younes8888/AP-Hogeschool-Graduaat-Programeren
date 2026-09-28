@@ -1,0 +1,576 @@
+{"ts":"2026-09-28T07:55:39.944Z","session":"20260928-075539","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\webtechnology\\webtechnologie-labo-02","https":false,"live_reload":true}}
+{"ts":"2026-09-28T07:55:40.356Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":200,"duration_ms":53}}
+{"ts":"2026-09-28T07:55:40.419Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/webtechnology/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1292,1392]}}
+{"ts":"2026-09-28T07:55:40.664Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T07:55:40.684Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:55:40.693Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T07:55:40.944Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:55:44.708Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-09-28T07:56:03.948Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-28T07:56:03.954Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-09-28T07:56:04.092Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:56:07.871Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/about.html","status":200,"duration_ms":5}}
+{"ts":"2026-09-28T07:56:08.053Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/link-relative/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:56:09.971Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-09-28T07:56:10.988Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:19.017Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T07:57:19.026Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-09-28T07:57:19.175Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:19.243Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-09-28T07:57:20.751Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/about.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T07:57:20.937Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/link-relative/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:23.413Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T07:57:23.612Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:25.525Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/about.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T07:57:25.710Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/link-relative/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:26.438Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T07:57:26.588Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:27.100Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/about.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T07:57:27.255Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/link-relative/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:57:27.747Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T07:57:27.991Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T07:59:18.428Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-09-28T07:59:18.432Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-09-28T07:59:18.435Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-09-28T07:59:18.439Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-09-28T07:59:18.442Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-09-28T07:59:18.445Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-09-28T08:02:29.089Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T08:02:29.094Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-09-28T08:02:29.292Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:02:30.147Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/pages/about.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T08:02:30.345Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/link-relative/pages/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:02:31.018Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-09-28T08:02:31.161Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:02:31.715Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/pages/about.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T08:02:31.871Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/link-relative/pages/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:02:32.315Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T08:02:32.555Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:03:03.711Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/pages/about.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T08:03:03.910Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/link-relative/pages/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:03:04.587Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T08:03:04.818Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:03:05.064Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/pages/about.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T08:03:05.207Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-09-28T08:03:05.217Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/link-relative/pages/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:03:05.369Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T08:03:05.520Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-09-28T08:03:05.527Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/link-relative/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:03:05.631Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-relative/pages/about.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T08:03:05.879Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-09-28T08:03:05.884Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c22","url":"http://localhost:5500/link-relative/pages/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:06:28.232Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c21"}}
+{"ts":"2026-09-28T08:06:28.401Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-09-28T08:06:28.403Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-09-28T08:06:28.405Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-09-28T08:06:28.407Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-09-28T08:06:28.427Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-09-28T08:07:05.744Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c22"}}
+{"ts":"2026-09-28T08:07:08.936Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-new-page/index.html","status":200,"duration_ms":22}}
+{"ts":"2026-09-28T08:07:09.190Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c23","url":"http://localhost:5500/link-new-page/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:07:15.389Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c23"}}
+{"ts":"2026-09-28T08:08:04.789Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-new-page/index.html","status":200,"duration_ms":25}}
+{"ts":"2026-09-28T08:08:05.048Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c24","url":"http://localhost:5500/link-new-page/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:09:35.732Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-09-28T08:20:53.417Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":30}}
+{"ts":"2026-09-28T08:20:53.652Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c25","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:20:55.094Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c24"}}
+{"ts":"2026-09-28T08:23:37.094Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T08:23:37.099Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c25"}}
+{"ts":"2026-09-28T08:23:37.291Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c26","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:23:38.229Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T08:23:38.234Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c26"}}
+{"ts":"2026-09-28T08:23:38.378Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c27","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:25:00.857Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T08:25:00.864Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c27"}}
+{"ts":"2026-09-28T08:25:01.013Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c28","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:25:02.532Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/home.html","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T08:25:03.806Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c28"}}
+{"ts":"2026-09-28T08:25:04.819Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c29","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:25:51.158Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":28}}
+{"ts":"2026-09-28T08:25:51.172Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c29"}}
+{"ts":"2026-09-28T08:25:51.313Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c30","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:28:58.671Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T08:28:58.678Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c30"}}
+{"ts":"2026-09-28T08:28:58.870Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c31","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:28:59.646Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/home.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T08:28:59.846Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c32","url":"http://localhost:5500/link-internal/home.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:29:02.668Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c31"}}
+{"ts":"2026-09-28T08:29:03.475Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/about.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T08:29:03.677Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c33","url":"http://localhost:5500/link-internal/about.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:29:04.379Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c34","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:29:05.050Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/contact.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-28T08:29:05.230Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c35","url":"http://localhost:5500/link-internal/contact.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:29:05.933Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c34"}}
+{"ts":"2026-09-28T08:29:06.950Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c36","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:31:34.728Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c35"}}
+{"ts":"2026-09-28T08:31:34.733Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c33"}}
+{"ts":"2026-09-28T08:31:34.736Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c32"}}
+{"ts":"2026-09-28T08:34:34.871Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/lists-bullet/index.html","status":200,"duration_ms":22}}
+{"ts":"2026-09-28T08:34:35.122Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c37","url":"http://localhost:5500/lists-bullet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:34:37.045Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c37"}}
+{"ts":"2026-09-28T08:34:40.059Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c36"}}
+{"ts":"2026-09-28T08:35:29.936Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":33}}
+{"ts":"2026-09-28T08:35:30.200Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c38","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:35:33.715Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/.well-known/appspecific/com.chrome.devtools.json","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T08:35:54.918Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c38"}}
+{"ts":"2026-09-28T08:39:10.456Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/link-internal/index.html","status":200,"duration_ms":26}}
+{"ts":"2026-09-28T08:39:10.721Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c39","url":"http://localhost:5500/link-internal/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:39:19.542Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c39"}}
+{"ts":"2026-09-28T08:44:55.780Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-number/index.html","status":200,"duration_ms":30}}
+{"ts":"2026-09-28T08:44:56.042Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c40","url":"http://localhost:5500/list-number/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:44:59.172Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c40"}}
+{"ts":"2026-09-28T08:56:08.947Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-nested/index.html","status":200,"duration_ms":28}}
+{"ts":"2026-09-28T08:56:09.219Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c41","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:56:48.973Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-nested/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T08:56:48.979Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c41"}}
+{"ts":"2026-09-28T08:56:49.129Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c42","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:56:50.244Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-nested/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T08:56:50.249Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c42"}}
+{"ts":"2026-09-28T08:56:50.390Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c43","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:56:50.446Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-nested/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T08:56:50.452Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c43"}}
+{"ts":"2026-09-28T08:56:50.662Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c44","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T08:58:03.619Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/list-nested/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T08:58:03.626Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c44"}}
+{"ts":"2026-09-28T08:58:03.775Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c45","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:16:01.270Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c45"}}
+{"ts":"2026-09-28T09:27:23.038Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c46","url":"http://localhost:5500/list-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:30:06.485Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T09:30:06.544Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":200,"duration_ms":34}}
+{"ts":"2026-09-28T09:30:06.763Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c47","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:30:08.255Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c46"}}
+{"ts":"2026-09-28T09:30:36.835Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T09:30:36.840Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c47"}}
+{"ts":"2026-09-28T09:30:36.871Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:30:36.989Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c48","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:30:43.582Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T09:30:43.587Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c48"}}
+{"ts":"2026-09-28T09:30:43.621Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:30:43.738Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c49","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:30:49.275Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T09:30:49.283Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c49"}}
+{"ts":"2026-09-28T09:30:49.327Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:30:49.434Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c50","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:31:00.090Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T09:31:00.098Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c50"}}
+{"ts":"2026-09-28T09:31:00.148Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:31:00.285Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c51","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:31:22.011Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:31:22.018Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c51"}}
+{"ts":"2026-09-28T09:31:22.057Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/image/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:31:22.164Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c52","url":"http://localhost:5500/image/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:35:54.999Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c52"}}
+{"ts":"2026-09-28T09:39:48.921Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":28}}
+{"ts":"2026-09-28T09:39:48.972Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":200,"duration_ms":24}}
+{"ts":"2026-09-28T09:39:49.210Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c53","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:40:36.449Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:40:36.454Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c53"}}
+{"ts":"2026-09-28T09:40:36.487Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:40:36.620Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c54","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:40:53.271Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:40:53.277Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c54"}}
+{"ts":"2026-09-28T09:40:53.315Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:40:53.432Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c55","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:41:02.600Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T09:41:02.604Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c55"}}
+{"ts":"2026-09-28T09:41:02.649Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T09:41:02.764Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c56","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:41:11.435Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T09:41:11.440Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c56"}}
+{"ts":"2026-09-28T09:41:11.481Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:41:11.597Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c57","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:02.406Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:43:02.411Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c57"}}
+{"ts":"2026-09-28T09:43:02.447Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:43:02.562Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c58","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:03.391Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:43:03.397Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c58"}}
+{"ts":"2026-09-28T09:43:03.433Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T09:43:03.541Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c59","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:03.587Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-09-28T09:43:03.597Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c59"}}
+{"ts":"2026-09-28T09:43:03.634Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:43:03.736Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c60","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:03.762Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T09:43:03.766Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c60"}}
+{"ts":"2026-09-28T09:43:03.806Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T09:43:03.908Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c61","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:03.970Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T09:43:03.977Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c61"}}
+{"ts":"2026-09-28T09:43:04.016Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T09:43:04.117Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c62","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:04.176Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:43:04.180Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c62"}}
+{"ts":"2026-09-28T09:43:04.217Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:43:04.351Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c63","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:04.547Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T09:43:04.551Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c63"}}
+{"ts":"2026-09-28T09:43:04.590Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:43:04.695Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c64","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:25.237Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T09:43:25.243Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c64"}}
+{"ts":"2026-09-28T09:43:25.280Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:43:25.386Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c65","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:30.273Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:43:30.278Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c65"}}
+{"ts":"2026-09-28T09:43:30.315Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:43:30.417Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c66","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:43:58.607Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T09:43:58.613Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c66"}}
+{"ts":"2026-09-28T09:43:58.653Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:43:58.776Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c67","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:44:42.547Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T09:44:42.552Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c67"}}
+{"ts":"2026-09-28T09:44:42.585Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:44:42.714Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c68","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:44:44.426Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T09:44:44.433Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c68"}}
+{"ts":"2026-09-28T09:44:44.471Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-basic/images/ei.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:44:44.577Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c69","url":"http://localhost:5500/recipe-basic/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:47:21.905Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":27}}
+{"ts":"2026-09-28T09:47:22.185Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c70","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:47:23.516Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c69"}}
+{"ts":"2026-09-28T09:47:25.042Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":10}}
+{"ts":"2026-09-28T09:47:25.049Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c70"}}
+{"ts":"2026-09-28T09:47:25.187Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c71","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:48:42.701Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T09:48:42.707Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c71"}}
+{"ts":"2026-09-28T09:48:42.852Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c72","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:48:44.470Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:48:44.475Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c72"}}
+{"ts":"2026-09-28T09:48:44.614Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c73","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:50:07.115Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:50:07.121Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c73"}}
+{"ts":"2026-09-28T09:50:07.170Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":200,"duration_ms":22}}
+{"ts":"2026-09-28T09:50:07.278Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c74","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:50:24.982Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:50:24.987Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c74"}}
+{"ts":"2026-09-28T09:50:25.020Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T09:50:25.144Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c75","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:50:38.736Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T09:50:38.742Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c75"}}
+{"ts":"2026-09-28T09:50:38.780Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:50:38.913Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c76","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:51:43.695Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T09:51:43.699Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c76"}}
+{"ts":"2026-09-28T09:51:43.735Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:51:43.847Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c77","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:51:52.898Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:51:52.904Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c77"}}
+{"ts":"2026-09-28T09:51:52.946Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:51:53.063Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c78","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:52:26.212Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-28T09:52:26.218Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c78"}}
+{"ts":"2026-09-28T09:52:26.251Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T09:52:26.370Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c79","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:52:50.567Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-28T09:52:50.573Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c79"}}
+{"ts":"2026-09-28T09:52:50.611Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T09:52:50.723Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c80","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:52:51.699Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T09:52:51.704Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c80"}}
+{"ts":"2026-09-28T09:52:51.740Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T09:52:51.850Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c81","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:54:02.657Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T09:54:02.662Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c81"}}
+{"ts":"2026-09-28T09:54:02.701Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T09:54:02.813Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c82","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:55:06.266Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T09:55:06.272Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c82"}}
+{"ts":"2026-09-28T09:55:06.311Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T09:55:06.428Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c83","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:55:50.050Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T09:55:50.056Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c83"}}
+{"ts":"2026-09-28T09:55:50.094Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/images/albert-einstein-1.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T09:55:50.210Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c84","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:57:24.152Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T09:57:24.159Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c84"}}
+{"ts":"2026-09-28T09:57:24.318Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c85","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:57:25.069Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T09:57:25.075Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c85"}}
+{"ts":"2026-09-28T09:57:25.216Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c86","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:57:25.250Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/person-profile/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T09:57:25.257Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c86"}}
+{"ts":"2026-09-28T09:57:25.397Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c87","url":"http://localhost:5500/person-profile/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:59:49.493Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":34}}
+{"ts":"2026-09-28T09:59:49.559Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":200,"duration_ms":42}}
+{"ts":"2026-09-28T09:59:49.802Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c88","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T09:59:51.690Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c87"}}
+{"ts":"2026-09-28T10:00:13.806Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T10:00:13.812Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c88"}}
+{"ts":"2026-09-28T10:00:13.857Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:00:13.972Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c89","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:00:25.562Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T10:00:25.567Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c89"}}
+{"ts":"2026-09-28T10:00:25.602Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":16}}
+{"ts":"2026-09-28T10:00:25.717Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c90","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:00:35.928Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":25}}
+{"ts":"2026-09-28T10:00:35.933Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c90"}}
+{"ts":"2026-09-28T10:00:35.973Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":19}}
+{"ts":"2026-09-28T10:00:36.096Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c91","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:00:47.474Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T10:00:47.479Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c91"}}
+{"ts":"2026-09-28T10:00:47.518Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:00:47.632Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c92","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:02:40.038Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T10:02:40.042Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c92"}}
+{"ts":"2026-09-28T10:02:40.081Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:02:40.198Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c93","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:03:53.929Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T10:03:53.934Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c93"}}
+{"ts":"2026-09-28T10:03:53.969Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":17}}
+{"ts":"2026-09-28T10:03:54.090Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c94","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:03:55.459Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:03:55.464Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c94"}}
+{"ts":"2026-09-28T10:03:55.503Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:03:55.610Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c95","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:03:56.086Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:03:56.092Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c95"}}
+{"ts":"2026-09-28T10:03:56.130Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:03:56.229Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c96","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:04:53.436Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T10:04:53.442Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c96"}}
+{"ts":"2026-09-28T10:04:53.480Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:04:53.597Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c97","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:08:18.222Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T10:08:18.227Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c97"}}
+{"ts":"2026-09-28T10:08:18.269Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:08:18.440Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c98","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:10:18.654Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T10:10:18.660Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c98"}}
+{"ts":"2026-09-28T10:10:18.703Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T10:10:18.828Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c99","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:10:20.111Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:10:20.116Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c99"}}
+{"ts":"2026-09-28T10:10:20.149Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T10:10:20.259Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c100","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:10:53.146Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":33}}
+{"ts":"2026-09-28T10:10:53.160Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c100"}}
+{"ts":"2026-09-28T10:10:53.213Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":17}}
+{"ts":"2026-09-28T10:10:53.329Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c101","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:14:33.810Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":10}}
+{"ts":"2026-09-28T10:14:33.816Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c101"}}
+{"ts":"2026-09-28T10:14:33.856Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:14:33.972Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c102","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:14:38.978Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:14:38.984Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c102"}}
+{"ts":"2026-09-28T10:14:39.029Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":17}}
+{"ts":"2026-09-28T10:14:39.145Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c103","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:15:36.033Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":34}}
+{"ts":"2026-09-28T10:15:36.039Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c103"}}
+{"ts":"2026-09-28T10:15:36.078Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:15:36.199Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c104","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:16:27.591Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:16:27.597Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c104"}}
+{"ts":"2026-09-28T10:16:27.639Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":19}}
+{"ts":"2026-09-28T10:16:27.777Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c105","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:16:37.787Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T10:16:37.792Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c105"}}
+{"ts":"2026-09-28T10:16:37.830Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:16:37.940Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c106","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:16:38.324Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:16:38.329Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c106"}}
+{"ts":"2026-09-28T10:16:38.370Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:16:38.498Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c107","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:08.177Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T10:17:08.186Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c107"}}
+{"ts":"2026-09-28T10:17:08.231Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:17:08.347Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c108","url":"http://localhost:5500/webpage-ap-base/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:10.939Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":200,"duration_ms":26}}
+{"ts":"2026-09-28T10:17:10.959Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:11.231Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c109","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:12.344Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c108"}}
+{"ts":"2026-09-28T10:17:14.473Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:17:14.478Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c109"}}
+{"ts":"2026-09-28T10:17:14.503Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:14.617Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c110","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:15.388Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:17:15.397Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c110"}}
+{"ts":"2026-09-28T10:17:15.418Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:15.533Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c111","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:15.892Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T10:17:15.897Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c111"}}
+{"ts":"2026-09-28T10:17:15.915Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:16.113Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c112","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:16.151Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:17:16.156Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c112"}}
+{"ts":"2026-09-28T10:17:16.182Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:16.310Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c113","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:16.340Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:17:16.346Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c113"}}
+{"ts":"2026-09-28T10:17:16.380Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:16.564Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c114","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:16.689Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:17:16.696Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c114"}}
+{"ts":"2026-09-28T10:17:16.722Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:16.845Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c115","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:16.886Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:17:16.891Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c115"}}
+{"ts":"2026-09-28T10:17:16.916Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:17.030Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c116","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:17.071Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:17:17.078Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c116"}}
+{"ts":"2026-09-28T10:17:17.104Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:17.214Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c117","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:17.285Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:17:17.291Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c117"}}
+{"ts":"2026-09-28T10:17:17.319Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:17.435Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c118","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:18.157Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:17:18.163Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c118"}}
+{"ts":"2026-09-28T10:17:18.183Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:18.313Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c119","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:17:19.155Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:17:19.160Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c119"}}
+{"ts":"2026-09-28T10:17:19.186Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:17:19.310Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c120","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:31.391Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":10}}
+{"ts":"2026-09-28T10:18:31.401Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c120"}}
+{"ts":"2026-09-28T10:18:31.433Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:18:31.585Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c121","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:32.265Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T10:18:32.273Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c121"}}
+{"ts":"2026-09-28T10:18:32.300Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:18:32.416Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c122","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:32.873Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:18:32.879Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c122"}}
+{"ts":"2026-09-28T10:18:32.901Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:18:33.016Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c123","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:33.049Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-09-28T10:18:33.060Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c123"}}
+{"ts":"2026-09-28T10:18:33.087Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:18:33.196Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c124","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:33.237Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:18:33.242Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c124"}}
+{"ts":"2026-09-28T10:18:33.269Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":4}}
+{"ts":"2026-09-28T10:18:33.380Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c125","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:33.573Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:18:33.581Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c125"}}
+{"ts":"2026-09-28T10:18:33.600Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":1}}
+{"ts":"2026-09-28T10:18:33.743Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c126","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:18:35.162Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c126"}}
+{"ts":"2026-09-28T10:18:41.691Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":25}}
+{"ts":"2026-09-28T10:18:41.721Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:18:42.005Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c127","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:19:34.226Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-28T10:19:34.235Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c127"}}
+{"ts":"2026-09-28T10:19:34.285Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":19}}
+{"ts":"2026-09-28T10:19:34.394Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c128","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:19:41.597Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c128"}}
+{"ts":"2026-09-28T10:19:43.893Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:19:43.920Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/images/AP_logo.png","status":404,"duration_ms":2}}
+{"ts":"2026-09-28T10:19:44.183Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c129","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:19:50.106Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c129"}}
+{"ts":"2026-09-28T10:19:51.120Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c130","url":"http://localhost:5500/webpage-ap-link/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:20:15.598Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-28T10:20:15.604Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c130"}}
+{"ts":"2026-09-28T10:20:15.641Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:20:15.755Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c131","url":"http://localhost:5500/webpage-ap-link/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:20:18.541Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c131"}}
+{"ts":"2026-09-28T10:20:19.551Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c132","url":"http://localhost:5500/webpage-ap-link/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:20:25.963Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/index.html","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:20:25.998Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:20:26.239Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c133","url":"http://localhost:5500/webpage-ap-base/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:20:33.625Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c133"}}
+{"ts":"2026-09-28T10:21:07.592Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-link/index.html","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T10:21:07.629Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:21:07.902Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c134","url":"http://localhost:5500/webpage-ap-link/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:21:10.475Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c134"}}
+{"ts":"2026-09-28T10:21:12.543Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c132"}}
+{"ts":"2026-09-28T10:24:55.420Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":28}}
+{"ts":"2026-09-28T10:24:55.677Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c135","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:25:49.080Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T10:25:49.088Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c135"}}
+{"ts":"2026-09-28T10:25:49.124Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:25:49.241Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c136","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:26:19.896Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T10:26:19.904Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c136"}}
+{"ts":"2026-09-28T10:26:19.947Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:26:20.065Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c137","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:27:00.451Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T10:27:00.456Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c137"}}
+{"ts":"2026-09-28T10:27:00.493Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:27:00.610Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c138","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:27:31.138Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":25}}
+{"ts":"2026-09-28T10:27:31.144Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c138"}}
+{"ts":"2026-09-28T10:27:31.179Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":16}}
+{"ts":"2026-09-28T10:27:31.307Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c139","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:29:13.401Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":24}}
+{"ts":"2026-09-28T10:29:13.405Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c139"}}
+{"ts":"2026-09-28T10:29:13.446Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:29:13.452Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T10:29:13.560Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c140","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:29:26.509Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T10:29:26.515Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c140"}}
+{"ts":"2026-09-28T10:29:26.547Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T10:29:26.555Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T10:29:26.658Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c141","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:29:34.531Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T10:29:34.537Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c141"}}
+{"ts":"2026-09-28T10:29:34.579Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":15}}
+{"ts":"2026-09-28T10:29:34.580Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":16}}
+{"ts":"2026-09-28T10:29:34.685Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c142","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:31:08.795Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-28T10:31:08.802Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c142"}}
+{"ts":"2026-09-28T10:31:08.840Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:31:08.841Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:31:08.956Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c143","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:31:11.219Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:31:11.228Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c143"}}
+{"ts":"2026-09-28T10:31:11.263Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":16}}
+{"ts":"2026-09-28T10:31:11.265Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":18}}
+{"ts":"2026-09-28T10:31:11.376Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c144","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:01.114Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":33}}
+{"ts":"2026-09-28T10:32:01.124Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c144"}}
+{"ts":"2026-09-28T10:32:01.191Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":21}}
+{"ts":"2026-09-28T10:32:01.197Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/webpage-ap-base/images/AP_logo.png","status":304,"duration_ms":27}}
+{"ts":"2026-09-28T10:32:01.307Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c145","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:24.267Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T10:32:24.274Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c145"}}
+{"ts":"2026-09-28T10:32:24.327Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":18}}
+{"ts":"2026-09-28T10:32:24.327Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/AP_logo.png","status":200,"duration_ms":20}}
+{"ts":"2026-09-28T10:32:24.463Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c146","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:25.072Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-09-28T10:32:25.079Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c146"}}
+{"ts":"2026-09-28T10:32:25.119Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":11}}
+{"ts":"2026-09-28T10:32:25.119Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/AP_logo.png","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:32:25.235Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c147","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:25.316Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":8}}
+{"ts":"2026-09-28T10:32:25.340Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c147"}}
+{"ts":"2026-09-28T10:32:25.379Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:32:25.380Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:32:25.479Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c148","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:25.546Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":6}}
+{"ts":"2026-09-28T10:32:25.556Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c148"}}
+{"ts":"2026-09-28T10:32:25.596Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/AP_logo.png","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:32:25.597Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":14}}
+{"ts":"2026-09-28T10:32:25.697Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c149","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:25.781Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:32:25.791Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c149"}}
+{"ts":"2026-09-28T10:32:25.828Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/AP_logo.png","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:32:25.830Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/gazet/images/teaser.jpg","status":304,"duration_ms":13}}
+{"ts":"2026-09-28T10:32:25.940Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c150","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:32:55.071Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c150"}}
+{"ts":"2026-09-28T10:39:12.531Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-09-28T10:39:12.818Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c151","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:39:14.238Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:39:14.243Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c151"}}
+{"ts":"2026-09-28T10:39:14.378Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c152","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:40:57.948Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":200,"duration_ms":18}}
+{"ts":"2026-09-28T10:40:57.953Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c152"}}
+{"ts":"2026-09-28T10:40:57.993Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/images/stoofvlees.jpg","status":200,"duration_ms":14}}
+{"ts":"2026-09-28T10:40:58.107Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c153","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:42:29.930Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-28T10:42:29.936Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c153"}}
+{"ts":"2026-09-28T10:42:29.974Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/images/stoofvlees.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:42:30.104Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c154","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:42:30.784Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":304,"duration_ms":7}}
+{"ts":"2026-09-28T10:42:30.788Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c154"}}
+{"ts":"2026-09-28T10:42:30.822Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/images/stoofvlees.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:42:30.929Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c155","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:42:30.968Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-09-28T10:42:30.974Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c155"}}
+{"ts":"2026-09-28T10:42:31.009Z","session":"20260928-075539","kind":"http_request","data":{"method":"GET","path":"/recipe-advanced/images/stoofvlees.jpg","status":304,"duration_ms":12}}
+{"ts":"2026-09-28T10:42:31.124Z","session":"20260928-075539","kind":"ws_connect","data":{"client_id":"c156","url":"http://localhost:5500/recipe-advanced/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,1304]}}
+{"ts":"2026-09-28T10:43:17.745Z","session":"20260928-075539","kind":"ws_disconnect","data":{"client_id":"c156"}}
