@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj": {}
   },
   "projects": {
-    "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj",
         "projectName": "LaboOefeningen",
-        "projectPath": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\LaboOefeningen.csproj",
         "packagesPath": "C:\\Users\\seddo\\.nuget\\packages\\",
-        "outputPath": "D:\\programmeren\\basis_programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H1\\LaboOefeningen\\LaboOefeningen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seddo\\AppData\\Roaming\\NuGet\\NuGet.Config",

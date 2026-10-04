@@ -1,0 +1,10 @@
+{"ts":"2026-10-01T13:41:58.708Z","session":"20261001-134158","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"\\\\wsl.localhost\\Ubuntu\\home\\iplusone\\AP-Hogeschool-Graduaat-Programeren\\webtechnology\\pratice","https":false,"live_reload":true}}
+{"ts":"2026-10-01T13:41:59.011Z","session":"20261001-134158","kind":"http_request","data":{"method":"GET","path":"/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-10-01T13:41:59.072Z","session":"20261001-134158","kind":"http_request","data":{"method":"GET","path":"/style.css","status":200,"duration_ms":14}}
+{"ts":"2026-10-01T13:41:59.319Z","session":"20261001-134158","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5501/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,614]}}
+{"ts":"2026-10-01T13:41:59.324Z","session":"20261001-134158","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":2}}
+{"ts":"2026-10-01T13:43:09.107Z","session":"20261001-134158","kind":"http_request","data":{"method":"GET","path":"/index.html","status":304,"duration_ms":9}}
+{"ts":"2026-10-01T13:43:09.111Z","session":"20261001-134158","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-10-01T13:43:09.144Z","session":"20261001-134158","kind":"http_request","data":{"method":"GET","path":"/style.css","status":200,"duration_ms":8}}
+{"ts":"2026-10-01T13:43:09.267Z","session":"20261001-134158","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5501/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1278,614]}}
+{"ts":"2026-10-01T13:43:10.517Z","session":"20261001-134158","kind":"ws_disconnect","data":{"client_id":"c1"}}

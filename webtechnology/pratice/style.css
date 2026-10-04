@@ -1,0 +1,44 @@
+button:hover {
+  color: red;
+  background-color: yellow;
+}
+
+a:hover::after {
+  color: green;
+}
+
+a:active {
+  color: blueviolet;
+}
+
+ul li:first-child {
+  color: green;
+}
+
+ol li:last-child {
+  color: red;
+}
+
+/* p:first-child {
+  background-color: lightgreen;
+  color: black;
+}
+
+p:nth-child(3)
+{
+  background-color: lightblue; */
+/* } */
+
+p:nth-of-type(4){
+  background-color: lightblue;
+}
+
+.group-form:has(:required) > label::before{
+  content: " *";
+  color: black;
+}
+
+div:has([id]) > label::before{
+  content: " *";
+  color: red;
+}
