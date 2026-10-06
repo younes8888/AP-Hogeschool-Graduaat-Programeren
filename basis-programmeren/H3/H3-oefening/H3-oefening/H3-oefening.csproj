@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>H3_oefening</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\ap-graduaat-programming\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H3\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

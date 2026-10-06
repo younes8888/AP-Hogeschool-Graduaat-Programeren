@@ -1,0 +1,15 @@
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\bin\Debug\net10.0\H3-oefening.exe
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\bin\Debug\net10.0\H3-oefening.deps.json
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\bin\Debug\net10.0\H3-oefening.runtimeconfig.json
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\bin\Debug\net10.0\H3-oefening.dll
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\bin\Debug\net10.0\H3-oefening.pdb
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.AssemblyInfoInputs.cache
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.AssemblyInfo.cs
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.csproj.CoreCompileInputs.cache
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.dll
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\refint\H3-oefening.dll
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.pdb
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefening.genruntimeconfig.cache
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\ref\H3-oefening.dll
+D:\programmeren\basis_programmeren\H1\H3-oefening\H3-oefening\obj\Debug\net10.0\H3-oefen.82319E6B.Up2Date
