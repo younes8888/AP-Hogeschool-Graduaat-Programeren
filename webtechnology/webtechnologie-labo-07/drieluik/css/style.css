@@ -1,0 +1,28 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 5vw;
+  margin: 2vw;
+}
+
+div{
+    align-content: center;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    height: 90vh;
+}
+
+.item1 {
+  background-color: darkturquoise;
+}
+
+.item2 {
+  background-color: darkviolet;
+}
+
+.item3 {
+  background-color: deepskyblue;
+}
