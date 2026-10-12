@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programmeren\\basis_programmeren\\H1\\H3-oefening\\H3-oefening\\H3-oefening.csproj": {}
+    "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\H3-oefening.csproj": {}
   },
   "projects": {
-    "D:\\programmeren\\basis_programmeren\\H1\\H3-oefening\\H3-oefening\\H3-oefening.csproj": {
+    "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\H3-oefening.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programmeren\\basis_programmeren\\H1\\H3-oefening\\H3-oefening\\H3-oefening.csproj",
+        "projectUniqueName": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\H3-oefening.csproj",
         "projectName": "H3-oefening",
-        "projectPath": "D:\\programmeren\\basis_programmeren\\H1\\H3-oefening\\H3-oefening\\H3-oefening.csproj",
+        "projectPath": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\H3-oefening.csproj",
         "packagesPath": "C:\\Users\\seddo\\.nuget\\packages\\",
-        "outputPath": "D:\\programmeren\\basis_programmeren\\H1\\H3-oefening\\H3-oefening\\obj\\",
+        "outputPath": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\seddo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

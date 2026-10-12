@@ -10,6 +10,7 @@ namespace H3_oefening
             //StringsEnHunMethoden.SpaceStringInterpolation();
             //StringsEnHunMethoden.MultiplicationTablesStringInterpolation();
             StringsEnHunMethoden.VATCalculation();
+            //StringsEnHunMethoden.LeetSpeak();
 
             Console.ReadKey();
         }

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64752F13-52F1-E63B-B0B0-55E5A1BCC311}|H3-oefening\\H3-oefening.csproj|c:\\ap-hogeschool-graduaat-programeren\\basis-programmeren\\h3\\h3-oefening\\h3-oefening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64752F13-52F1-E63B-B0B0-55E5A1BCC311}|H3-oefening\\H3-oefening.csproj|solutionrelative:h3-oefening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64752F13-52F1-E63B-B0B0-55E5A1BCC311}|H3-oefening\\H3-oefening.csproj|c:\\ap-hogeschool-graduaat-programeren\\basis-programmeren\\h3\\h3-oefening\\h3-oefening\\stringsenhunmethoden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64752F13-52F1-E63B-B0B0-55E5A1BCC311}|H3-oefening\\H3-oefening.csproj|solutionrelative:h3-oefening\\stringsenhunmethoden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\Program.cs",
+              "RelativeDocumentMoniker": "H3-oefening\\Program.cs",
+              "ToolTip": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\Program.cs",
+              "RelativeToolTip": "H3-oefening\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:08:36.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringsEnHunMethoden.cs",
+              "DocumentMoniker": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\StringsEnHunMethoden.cs",
+              "RelativeDocumentMoniker": "H3-oefening\\StringsEnHunMethoden.cs",
+              "ToolTip": "C:\\AP-Hogeschool-Graduaat-Programeren\\basis-programmeren\\H3\\H3-oefening\\H3-oefening\\StringsEnHunMethoden.cs",
+              "RelativeToolTip": "H3-oefening\\StringsEnHunMethoden.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:08:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

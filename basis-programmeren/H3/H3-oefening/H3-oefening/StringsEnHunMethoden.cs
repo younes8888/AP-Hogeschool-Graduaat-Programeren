@@ -97,5 +97,20 @@ namespace H3_oefening
 
             Console.WriteLine($"Het bedrag {sum} met {btwPercentage}% btw bedraagt {totalSum}");
         }
+
+        //public static void LeetSpeak()
+        //{
+        //    string userInput;
+
+        //    Console.WriteLine("Geef je tekst in");
+
+        //    userInput = Console.ReadLine();
+
+        //    userInput = userInput.Trim();
+        //    userInput = userInput.Replace("a", "@");
+
+        //    Console.WriteLine(userInput);
+
+        //}
     }
 }
