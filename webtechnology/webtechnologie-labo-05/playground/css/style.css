@@ -1,0 +1,36 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 72px;
+    /* de kleuren van de boxen, zo blijft de titel leesbaar in licht en donker thema */
+    background: linear-gradient(#3F5EFB, #FC466B);
+    background-clip: text;
+    color: transparent;
+}
+
+.controls {
+    margin-top: 2rem;
+}
+
+/* experimenteer hieronder met de flex-instellingen */
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 750px;
+    height: 50vh;
+    border: 2px dashed #999;
+}
+
+.box {
+    height: 100px;
+    flex: 0 0 100px;
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
