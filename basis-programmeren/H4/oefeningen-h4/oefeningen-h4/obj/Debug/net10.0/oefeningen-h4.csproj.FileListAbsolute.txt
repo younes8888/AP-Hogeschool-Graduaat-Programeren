@@ -1,0 +1,16 @@
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\bin\Debug\net10.0\oefeningen-h4.exe
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\bin\Debug\net10.0\oefeningen-h4.deps.json
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\bin\Debug\net10.0\oefeningen-h4.runtimeconfig.json
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\bin\Debug\net10.0\oefeningen-h4.dll
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\bin\Debug\net10.0\oefeningen-h4.pdb
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.AssemblyInfoInputs.cache
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.AssemblyInfo.cs
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.csproj.CoreCompileInputs.cache
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.sourcelink.json
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.dll
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\refint\oefeningen-h4.dll
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.pdb
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefeningen-h4.genruntimeconfig.cache
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\ref\oefeningen-h4.dll
+D:\AP-Hogeschool-Graduaat-Programeren\basis-programmeren\H4\oefeningen-h4\oefeningen-h4\obj\Debug\net10.0\oefening.9F3C4E68.Up2Date
