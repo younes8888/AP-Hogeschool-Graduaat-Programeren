@@ -38,7 +38,7 @@
         {
             int choice;
 
-            Console.WriteLine("Welke oefening kies je?");
+            Console.WriteLine("Welke hoofdstuk kies je?");
             Console.WriteLine("1 - Hoofdstuk 1 - Werken met Visual Studio Code");
             Console.WriteLine("2 - Hoofdstuk 2 - Variabelen en datatypes");
             Console.WriteLine("3 - Hoofdstuk 3 - Strings en hun methoden");
