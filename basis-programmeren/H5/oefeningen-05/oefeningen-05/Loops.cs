@@ -64,7 +64,7 @@ namespace oefeningen_05
             string name = "";
             int totalAttendees = 0;
 
-            while(yesOrNo != "ja")
+            while (yesOrNo != "ja")
             {
                 Console.Write("Wil je een volgende persoon inschrijven? (ja of nee) ");
                 yesOrNo = Console.ReadLine();
@@ -186,20 +186,20 @@ namespace oefeningen_05
 
                 if (userInput.Length == 1)
                 {
-                
+
                     if (userInput == "G")
                     {
                         transcribedString = transcribedString + "C";
-                    } 
-                    else if(userInput == "C")
+                    }
+                    else if (userInput == "C")
                     {
                         transcribedString = transcribedString + "G";
                     }
-                    else if(userInput == "T")
+                    else if (userInput == "T")
                     {
                         transcribedString = transcribedString + "A";
                     }
-                    else if(userInput == "A")
+                    else if (userInput == "A")
                     {
                         transcribedString = transcribedString + "U";
                     }
@@ -209,7 +209,7 @@ namespace oefeningen_05
 
             Console.Write($"De RNA string is: {transcribedString}");
         }
-           
+
         public static void Accountant()
         {
             int userInput;
@@ -223,7 +223,7 @@ namespace oefeningen_05
             {
 
                 Console.WriteLine("Geef een getal");
-                userInput = Convert.ToInt32( Console.ReadLine());
+                userInput = Convert.ToInt32(Console.ReadLine());
 
                 totalBalance = totalBalance + userInput;
 
@@ -235,10 +235,10 @@ namespace oefeningen_05
                 {
                     sumOfNegativeNumber = sumOfNegativeNumber + userInput;
                 }
-                
+
                 index = index + 1;
                 average = totalBalance / index;
-                
+
                 Console.WriteLine($"De balans is {totalBalance}");
                 Console.WriteLine($"De som van de positieve getallen is {sumOfPositiveNumber}");
                 Console.WriteLine($"De som van de negatieve getallen is {sumOfNegativeNumber}");
@@ -246,6 +246,75 @@ namespace oefeningen_05
 
 
             } while (true);
+        }
+
+        public static void Minus100Plus100()
+        {
+            Console.WriteLine("Basis");
+            for (int i = -100; i <= 100; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            Console.WriteLine("Extended");
+            for (int i = -100; i <= 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        public static void AMultiplicationTable()
+        {
+            int num;
+
+            Console.WriteLine("Van welk getal wil je de tafel van vermenigvuldiging zien?");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine($"{i} * {num} = {i * num}");
+            }
+        }
+
+        public static void Multiples6And8()
+        {
+
+
+            for (int i = 1; i <= 100; i++)
+            {
+                if(i % 6 == 0 || i % 8 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        public static void Fibonacci()
+        {
+            int userInput;
+            int previousOne, previousTwo;
+            int num;
+            Console.Write("Geef het aantal getallen op die je wil zien van de reeks: ");
+            userInput = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("De fibonacci lijst is: ");
+    
+
+            previousOne = 0;
+            previousTwo = 1;
+            Console.Write(previousOne + " ");
+            
+            for (int i = 1; i < userInput - 1; i++)
+            {
+                num = previousOne + previousTwo;
+                Console.Write(num + " ");
+
+                previousOne = previousTwo;
+                previousTwo = num;
+            }
         }
     }
 }

@@ -14,8 +14,11 @@
             //Loops.SumOfEvenNumbers();
             //Loops.Factors();
             //Loops.RNATranscription();
-            Loops.Accountant();
-
+            //Loops.Accountant();
+            //Loops.Minus100Plus100();
+            //Loops.AMultiplicationTable();
+            //Loops.Multiples6And8();
+            Loops.Fibonacci();
 
             Console.ReadKey();
         }
