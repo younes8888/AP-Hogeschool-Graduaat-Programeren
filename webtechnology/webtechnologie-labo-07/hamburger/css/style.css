@@ -1,0 +1,85 @@
+body {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: 2fr 4fr 2fr;
+  background-color: gray;
+  gap: 5vh;
+}
+
+header {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: rgb(48, 108, 128);
+  border-radius: 10vh 10vh 0vh 0vh;
+  box-shadow: 1vh 1vh 1vh black;
+  gap: 3vh;
+  padding: 8vh;
+}
+
+h1 {
+  margin: 0;
+  border: 0.5vh solid black;
+  background-color: rgb(10, 59, 234);
+  padding: 5vh;
+}
+nav {
+  margin: 0;
+  border: 0.5vh solid black;
+  background-color: rgb(207, 19, 167);
+  padding: 5vh;
+}
+main {
+  background-color: yellow;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3vh;
+  padding: 3vh;
+  box-shadow: 1vh 1vh 1vh black;
+}
+
+article:first-child {
+  border: 0.5vh solid black;
+  background-color: orange;
+  padding: 3vh;
+}
+article:nth-child(2) {
+  border: 0.5vh solid black;
+  background-color: orange;
+  padding: 3vh;
+}
+main aside {
+  border: 0.5vh solid black;
+  background-color: rgb(165, 112, 12);
+  padding: 3vh;
+}
+footer {
+  background-color: rgb(67, 219, 125);
+  border-radius: 0 0 10vh 10vh;
+  box-shadow: 1vh 1vh 1vh black;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3vh;
+  padding: 3vh;
+}
+li {
+  list-style: none;
+  border: 0.5vh solid black;
+  padding: 3vh;
+}
+ul li:nth-child(1) {
+  background-color: rgb(36, 185, 128);
+}
+
+ul li:nth-child(2) {
+  background-color: rgb(36, 185, 128);
+}
+
+ul li:nth-child(3) {
+  background-color: rgb(36, 185, 128);
+}
+ul li:nth-child(4) {
+  background-color: rgb(36, 185, 128);
+}

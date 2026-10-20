@@ -2,18 +2,31 @@
 main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     gap: 10px;
     text-align: center;
 }
 article{
     border: 2px solid black;
     padding: 10px;
+    min-height: 100px;
+    line-height: 80px;
+    text-align: center;
 }
 
-article:nth-child(1){
-    background-color: blue;
-}
-
-article:nth-child(2){
+article:nth-child(even) {
     background-color: green;
+    color: white;
+}
+article:nth-child(odd){
+    background-color: yellow;
+}
+article:last-child{
+    background-color: red;
+    color: white;
+}
+
+article:first-child{
+    background-color: blue;
+    color: white;
 }
