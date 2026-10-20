@@ -213,15 +213,37 @@ namespace oefeningen_05
         public static void Accountant()
         {
             int userInput;
-            int totalBalance;
-            int sumOfNegativeNumber;
-            int sumOfPositiveNumber;
-
-            Console.WriteLine("Geef een getal");
-            userInput = Convert.ToInt32( Console.ReadLine());
+            int totalBalance = 0;
+            int sumOfNegativeNumber = 0;
+            int sumOfPositiveNumber = 0;
+            int average = 0;
+            int index = 0;
 
             do
             {
+
+                Console.WriteLine("Geef een getal");
+                userInput = Convert.ToInt32( Console.ReadLine());
+
+                totalBalance = totalBalance + userInput;
+
+                if (userInput >= 0)
+                {
+                    sumOfPositiveNumber = sumOfPositiveNumber + userInput;
+                }
+                else
+                {
+                    sumOfNegativeNumber = sumOfNegativeNumber + userInput;
+                }
+                
+                index = index + 1;
+                average = totalBalance / index;
+                
+                Console.WriteLine($"De balans is {totalBalance}");
+                Console.WriteLine($"De som van de positieve getallen is {sumOfPositiveNumber}");
+                Console.WriteLine($"De som van de negatieve getallen is {sumOfNegativeNumber}");
+                Console.WriteLine($"Het gemiddelde is {average}");
+
 
             } while (true);
         }
