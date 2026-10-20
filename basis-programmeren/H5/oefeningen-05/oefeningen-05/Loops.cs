@@ -383,7 +383,7 @@ namespace oefeningen_05
             while(start <= end)
             {
                 countPrime = 0;
-                for (int i = 1; i < end; i++)
+                for (int i = 1; i <= start; i++)
                 {
                     if (start % i == 0)
                     {
