@@ -18,7 +18,9 @@
             //Loops.Minus100Plus100();
             //Loops.AMultiplicationTable();
             //Loops.Multiples6And8();
-            Loops.Fibonacci();
+            //Loops.Fibonacci();
+            //Loops.PrimeNumberChecker();
+            Loops.PrimeNumberGenerator();
 
             Console.ReadKey();
         }

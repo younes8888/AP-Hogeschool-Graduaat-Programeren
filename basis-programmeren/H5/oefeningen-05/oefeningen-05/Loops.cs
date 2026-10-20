@@ -316,5 +316,88 @@ namespace oefeningen_05
                 previousTwo = num;
             }
         }
+
+        public static void PrimeNumberChecker()
+        {
+            int userInput;
+            int countPrime = 0;
+   
+
+            Console.WriteLine("Geef getal in:");
+            userInput = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i <= userInput; i++)
+            {
+                if(userInput % i == 0)
+                {
+                    countPrime++;
+                }
+            }
+
+            if (countPrime == 2)
+            {
+                Console.WriteLine($"{userInput} is priemgetal");
+            }
+            else
+            {
+                Console.WriteLine($"{userInput} is geen priemgetal");
+            }
+        }
+
+        public static void PrimeNumberCheckerTwo()
+        {
+            int userInput;
+            int countPrime = 0;
+
+
+            Console.WriteLine("Geef getal in:");
+            userInput = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i <= userInput; i++)
+            {
+                if (userInput % i == 0)
+                {
+                    countPrime++;
+                }
+            }
+
+            if (countPrime == 2)
+            {
+                Console.WriteLine("prime");
+            }
+            else
+            {
+                Console.WriteLine($"not prime");
+            }
+        }
+        public static void PrimeNumberGenerator()
+        {
+            int start, end, countPrime;
+
+            Console.WriteLine("Priemgetallen van (laagste getal):");
+            start = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("tot en met (hoogste getal):");
+            end = Convert.ToInt32(Console.ReadLine());
+
+            while(start <= end)
+            {
+                countPrime = 0;
+                for (int i = 1; i < end; i++)
+                {
+                    if (start % i == 0)
+                    {
+                        countPrime++;
+                    }
+                }
+
+                if (countPrime == 2)
+                {
+                    Console.Write(start + " ");
+                }
+                start++;
+            }
+
+        }
     }
 }
