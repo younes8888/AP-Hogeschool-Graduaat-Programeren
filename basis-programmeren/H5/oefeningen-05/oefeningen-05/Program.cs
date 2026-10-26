@@ -12,7 +12,7 @@
             //Loops.NumberOfDigits();
             //Loops.Lions();
             //Loops.SumOfEvenNumbers();
-            //Loops.Factors();
+            Loops.Factors();
             //Loops.RNATranscription();
             //Loops.Accountant();
             //Loops.Minus100Plus100();
@@ -20,7 +20,7 @@
             //Loops.Multiples6And8();
             //Loops.Fibonacci();
             //Loops.PrimeNumberChecker();
-            Loops.PrimeNumberGenerator();
+            //Loops.PrimeNumberGenerator();
 
             Console.ReadKey();
         }
