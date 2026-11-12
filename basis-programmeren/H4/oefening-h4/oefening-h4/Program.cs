@@ -87,10 +87,10 @@
             //Beslissingen.BMICalculator();
             //Beslissingen.LargestNumberOfThree();
             //Beslissingen.Exams();
-            //Beslissingen.OhmsLaw();
+            Beslissingen.OhmsLaw();
             //Beslissingen.LeapYear();
             //Beslissingen.PocketMoney();
-            SubMenu();
+            //SubMenu();
 
             Console.ReadKey();
         }
